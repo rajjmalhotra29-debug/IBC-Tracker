@@ -1,0 +1,669 @@
+{
+ "generated": "08 Jun 2026",
+ "count": 10,
+ "opportunities": [
+  {
+   "company": "DANALAKSHMI PAPER MILLS PRIVATE LIMITED",
+   "isLiq": false,
+   "stageLabel": "Corporate Insolvency Resolution Process",
+   "stageClass": "cirp",
+   "admit": "05-06-2026",
+   "claimsBy": "16-06-2026",
+   "claimsDays": 8,
+   "formgBy": "19 Aug 2026",
+   "applicant": "Arjun Saikumar",
+   "rp": "Mr. Krishnasamy Vasudevan",
+   "matches": [
+    {
+     "client": "Best Paper Mills Private Limited",
+     "score": 30,
+     "matched": [
+      "board",
+      "kraft",
+      "packaging",
+      "paper",
+      "pulp"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify; no public distress indicators found.",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: distressed waste-paper/pulp processors secure raw fibre. Forward: distressed corrugated-box plants give captive offtake. Horizontal: distressed kraft/MG paper mills add tonnage.",
+     "barW": 77
+    },
+    {
+     "client": "Urvashi Pulp & Paper Mills Private Limited",
+     "score": 29,
+     "matched": [
+      "board",
+      "kraft",
+      "packaging",
+      "paper",
+      "pulp"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify; appears operating and expanding, no public distress ",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: distressed waste-paper / recovered-fibre processors. Horizontal: other distressed kraft-paper or core-board mills for capacity and geography. Forward: distressed paper-tube/core-pipe converters as captive offtakers.",
+     "barW": 74
+    },
+    {
+     "client": "Century Textiles and Industries Limited",
+     "score": 28,
+     "matched": [
+      "board",
+      "packaging",
+      "paper",
+      "pulp"
+     ],
+     "reach": "Indian promoter, reachable (Aditya Birla Group, Kumar Mangalam Birla)",
+     "na": "Verify",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Horizontal: another integrated pulp and paper or paperboard mill (consolidation of capacity); Forward: real estate or packaging-conversion assets; Adjacency: distressed textile or yarn units near Birla Century.",
+     "barW": 72
+    }
+   ]
+  },
+  {
+   "company": "NEW PEARL VITRIFIED PRIVATE LIMITED",
+   "isLiq": false,
+   "stageLabel": "Corporate Insolvency Resolution Process",
+   "stageClass": "cirp",
+   "admit": "05-06-2026",
+   "claimsBy": "16-06-2026",
+   "claimsDays": 8,
+   "formgBy": "19 Aug 2026",
+   "applicant": "SHOORA",
+   "rp": "Mr. Manish Santosh Buchasia",
+   "matches": [
+    {
+     "client": "Asian Granito India Limited",
+     "score": 26,
+     "matched": [
+      "ceramic",
+      "sanitaryware",
+      "tile",
+      "vitrified"
+     ],
+     "reach": "Indian promoter (Patel family), reachable.",
+     "na": "Verify.",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward (body/glaze/frit), horizontal (tiles/quartz capacity), forward (retail/sanitaryware).",
+     "barW": 67
+    },
+    {
+     "client": "Varmora Granito Private Limited",
+     "score": 23,
+     "matched": [
+      "ceramic",
+      "porcelain",
+      "sanitaryware",
+      "tile",
+      "vitrified"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify; no public adverse signal found.",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Horizontal fit: distressed Morbi/Gujarat tile, sanitaryware or ceramic units (capacity and kilns). Backward fit: distressed body-clay, frit, glaze, ceramic-colour or natural-gas-dependent feedstock suppliers. Forward fit: tile distribution ",
+     "barW": 59
+    },
+    {
+     "client": "Ravikiran Ceramics Private limited",
+     "score": 20,
+     "matched": [
+      "ceramic",
+      "porcelain",
+      "sanitaryware",
+      "tile"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify; active, returns filed to FY24; no public distress fl",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Horizontal: distressed electrical-porcelain or insulator units (capacity, product range). Backward: stressed clay/feldspar or specialty-ceramic raw-material processors. Forward: distressed fuse, switchgear or electrical-component makers usi",
+     "barW": 51
+    }
+   ]
+  },
+  {
+   "company": "MAIYAS RESTAURANTS PRIVATE LIMITED",
+   "isLiq": false,
+   "stageLabel": "Corporate Insolvency Resolution Process",
+   "stageClass": "cirp",
+   "admit": "03-06-2026",
+   "claimsBy": "14-06-2026",
+   "claimsDays": 6,
+   "formgBy": "17 Aug 2026",
+   "applicant": "HIGHWAY STAR REST AND RECREATION PRIVATE LIMITED",
+   "rp": "Mr. Naresh Kumar Rohila",
+   "matches": [
+    {
+     "client": "Spezia India Private Limited",
+     "score": 19,
+     "matched": [
+      "beverage",
+      "food",
+      "hospitality",
+      "restaurant"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify; no public distress basis found.",
+     "conf": "MEDIUM",
+     "confClass": "g-warn",
+     "naClass": "g-warn",
+     "syn": "Horizontal: distressed restaurant or QSR chains and outlets. Limited otherwise.",
+     "barW": 49
+    },
+    {
+     "client": "Dharampal Satyapal Limited",
+     "score": 18,
+     "matched": [
+      "beverage",
+      "fmcg",
+      "food",
+      "hospitality"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify. Large solvent privately held group; no 29A concern i",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Horizontal: distressed spice/confectionery/beverage brands and snack makers. Backward: mint, spice-processing and flexible-packaging units. Forward: distribution and retail/HoReCa assets. Adjacency: hospitality and luxury-retail distressed ",
+     "barW": 46
+    },
+    {
+     "client": "Nilamber Hospitality LLp",
+     "score": 15,
+     "matched": [
+      "beverage",
+      "food",
+      "hospitality"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify; no public adverse basis found.",
+     "conf": "MEDIUM",
+     "confClass": "g-warn",
+     "naClass": "g-warn",
+     "syn": "Adjacency: a distressed hotel or food-and-beverage / retail-leisure asset could fit the group's mixed-use model.",
+     "barW": 38
+    }
+   ]
+  },
+  {
+   "company": "DEVKIRAN PAPER MILLS PRIVATE LIMITED",
+   "isLiq": false,
+   "stageLabel": "Corporate Insolvency Resolution Process",
+   "stageClass": "cirp",
+   "admit": "28-05-2026",
+   "claimsBy": "08-06-2026",
+   "claimsDays": 0,
+   "formgBy": "11 Aug 2026",
+   "applicant": "Valufocus Eco- Revive Packaging",
+   "rp": "Rishabh Sethi",
+   "matches": [
+    {
+     "client": "Best Paper Mills Private Limited",
+     "score": 30,
+     "matched": [
+      "board",
+      "kraft",
+      "packaging",
+      "paper",
+      "pulp"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify; no public distress indicators found.",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: distressed waste-paper/pulp processors secure raw fibre. Forward: distressed corrugated-box plants give captive offtake. Horizontal: distressed kraft/MG paper mills add tonnage.",
+     "barW": 77
+    },
+    {
+     "client": "Urvashi Pulp & Paper Mills Private Limited",
+     "score": 29,
+     "matched": [
+      "board",
+      "kraft",
+      "packaging",
+      "paper",
+      "pulp"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify; appears operating and expanding, no public distress ",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: distressed waste-paper / recovered-fibre processors. Horizontal: other distressed kraft-paper or core-board mills for capacity and geography. Forward: distressed paper-tube/core-pipe converters as captive offtakers.",
+     "barW": 74
+    },
+    {
+     "client": "Century Textiles and Industries Limited",
+     "score": 28,
+     "matched": [
+      "board",
+      "packaging",
+      "paper",
+      "pulp"
+     ],
+     "reach": "Indian promoter, reachable (Aditya Birla Group, Kumar Mangalam Birla)",
+     "na": "Verify",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Horizontal: another integrated pulp and paper or paperboard mill (consolidation of capacity); Forward: real estate or packaging-conversion assets; Adjacency: distressed textile or yarn units near Birla Century.",
+     "barW": 72
+    }
+   ]
+  },
+  {
+   "company": "VIBHA AGRO TECH LIMITED",
+   "isLiq": true,
+   "stageLabel": "Liquidation Process",
+   "stageClass": "liq",
+   "admit": "26-05-2026",
+   "claimsBy": "21-06-2026",
+   "claimsDays": 13,
+   "formgBy": null,
+   "applicant": "State Bank of India",
+   "rp": "Dantu Indu Sekhar",
+   "matches": [
+    {
+     "client": "Excel Genetics Limited",
+     "score": 27,
+     "matched": [
+      "agri",
+      "agro",
+      "crop",
+      "seed"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify",
+     "conf": "MEDIUM",
+     "confClass": "g-warn",
+     "naClass": "g-warn",
+     "syn": "Horizontal: distressed hybrid-seed companies (germplasm, distribution). Adjacency: agro-chemical or biotech firms (cross-sell to farmers). Backward: seed-processing/conditioning plants.",
+     "barW": 69
+    },
+    {
+     "client": "UPL Limited",
+     "score": 21,
+     "matched": [
+      "agri",
+      "agro",
+      "agrochemical",
+      "crop",
+      "seed"
+     ],
+     "reach": "Indian promoter, reachable (Shroff family controls strategy).",
+     "na": "Verify. No CIRP basis; UPL carries high debt and has been un",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: agro-intermediate/technical-grade chemical makers (input cost and supply). Horizontal: regional crop-protection formulators or registrations portfolios (market access). Adjacency: seeds, biologicals and post-harvest assets (portfo",
+     "barW": 54
+    },
+    {
+     "client": "Meghmani Industries Limited",
+     "score": 20,
+     "matched": [
+      "agri",
+      "agro",
+      "agrochemical",
+      "crop"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify. Part of established Meghmani group; no public distre",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: basic-chemical/intermediate makers (Meghmani group already backward-integrated). Forward: branded agri-input distribution; textile dye houses. Horizontal: other agrochemical and dyestuff manufacturers consolidating capacity in Guj",
+     "barW": 51
+    }
+   ]
+  },
+  {
+   "company": "MARTINA BIO GENICS PRIVATE LIMITED",
+   "isLiq": false,
+   "stageLabel": "Corporate Insolvency Resolution Process",
+   "stageClass": "cirp",
+   "admit": "25-05-2026",
+   "claimsBy": "05-06-2026",
+   "claimsDays": -3,
+   "formgBy": "08 Aug 2026",
+   "applicant": "STATE BANK OF INDIA",
+   "rp": "Mr. Jitendra Lohia",
+   "matches": [
+    {
+     "client": "Cadila Pharmaceuticals Limited",
+     "score": 34,
+     "matched": [
+      "api",
+      "bio",
+      "drug",
+      "formulation",
+      "intermediate",
+      "pharma"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify; no public indication of default or CIRP.",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: distressed API/KSM units (secure raw inputs). Horizontal: distressed formulation plants (capacity, WHO-GMP lines). Adjacency: distressed vaccine/biologics or nutraceutical assets.",
+     "barW": 87
+    },
+    {
+     "client": "Parul Chemicals Limited",
+     "score": 31,
+     "matched": [
+      "api",
+      "bio",
+      "drug",
+      "formulation",
+      "intermediate",
+      "pharma"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify. Status Amalgamated; entity no longer independently o",
+     "conf": "MEDIUM",
+     "confClass": "g-warn",
+     "naClass": "g-warn",
+     "syn": "As a pharma-intermediate maker (if revived via successor): backward to basic-chemical feedstock, forward to API/formulation makers, horizontal with other fine-chemical intermediate producers. Otherwise not applicable.",
+     "barW": 79
+    },
+    {
+     "client": "Zydus Lifesciences Limited",
+     "score": 30,
+     "matched": [
+      "api",
+      "bio",
+      "formulation",
+      "intermediate",
+      "pharma"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify. No public distress basis; strong solvent group. Note",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: distressed API/intermediate plants secure input cost. Horizontal: distressed Indian/US generic and branded-formulation portfolios add scale and ANDAs. Adjacency: distressed vaccine, biosimilar or animal-health units fit existing v",
+     "barW": 77
+    }
+   ]
+  },
+  {
+   "company": "JMV ISPAT PRIVATE LIMITED",
+   "isLiq": false,
+   "stageLabel": "Corporate Insolvency Resolution Process",
+   "stageClass": "cirp",
+   "admit": "24-05-2026",
+   "claimsBy": "05-06-2026",
+   "claimsDays": -3,
+   "formgBy": "07 Aug 2026",
+   "applicant": "Israr",
+   "rp": "Ms. Hemi Gupta",
+   "matches": [
+    {
+     "client": "Castings & Castings",
+     "score": 22,
+     "matched": [
+      "casting",
+      "iron",
+      "steel"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify",
+     "conf": "MEDIUM",
+     "confClass": "g-warn",
+     "naClass": "g-warn",
+     "syn": "Horizontal: distressed iron/steel foundries in eastern India (capacity and casting range). Backward: pig iron/scrap processing (input cost). Forward: machining shops for finished castings.",
+     "barW": 56
+    },
+    {
+     "client": "ISMT Limited",
+     "score": 20,
+     "matched": [
+      "alloy",
+      "forging",
+      "iron",
+      "steel"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "ISMT itself faced earlier financial distress and lender stre",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: distressed pig-iron, scrap or ferro-alloy suppliers feed the steel melt. Forward: distressed tube-finishing, drawing or precision-tube units add value. Horizontal: distressed seamless-tube or alloy-steel plants consolidate. Adjace",
+     "barW": 51
+    },
+    {
+     "client": "Eco Phil Metals Private Limited",
+     "score": 19,
+     "matched": [
+      "alloy",
+      "iron",
+      "steel"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify",
+     "conf": "MEDIUM",
+     "confClass": "g-warn",
+     "naClass": "g-warn",
+     "syn": "Backward fit with distressed non-ferrous smelting / lead and tin alloy units feeding Persang's solder business; horizontal fit with small distressed alloy or solder makers.",
+     "barW": 49
+    }
+   ]
+  },
+  {
+   "company": "SIDDHBALI STEELS & STRIPS PRIVATE LIMITED",
+   "isLiq": true,
+   "stageLabel": "Liquidation Process",
+   "stageClass": "liq",
+   "admit": "17-05-2026",
+   "claimsBy": "11-06-2026",
+   "claimsDays": 3,
+   "formgBy": null,
+   "applicant": "Rahuraj Steel Traders Private Limited",
+   "rp": "NANDISH SUNILBHAI VIN",
+   "matches": [
+    {
+     "client": "Castings & Castings",
+     "score": 22,
+     "matched": [
+      "casting",
+      "iron",
+      "steel"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify",
+     "conf": "MEDIUM",
+     "confClass": "g-warn",
+     "naClass": "g-warn",
+     "syn": "Horizontal: distressed iron/steel foundries in eastern India (capacity and casting range). Backward: pig iron/scrap processing (input cost). Forward: machining shops for finished castings.",
+     "barW": 56
+    },
+    {
+     "client": "ISMT Limited",
+     "score": 20,
+     "matched": [
+      "alloy",
+      "forging",
+      "iron",
+      "steel"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "ISMT itself faced earlier financial distress and lender stre",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: distressed pig-iron, scrap or ferro-alloy suppliers feed the steel melt. Forward: distressed tube-finishing, drawing or precision-tube units add value. Horizontal: distressed seamless-tube or alloy-steel plants consolidate. Adjace",
+     "barW": 51
+    },
+    {
+     "client": "Eco Phil Metals Private Limited",
+     "score": 19,
+     "matched": [
+      "alloy",
+      "iron",
+      "steel"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify",
+     "conf": "MEDIUM",
+     "confClass": "g-warn",
+     "naClass": "g-warn",
+     "syn": "Backward fit with distressed non-ferrous smelting / lead and tin alloy units feeding Persang's solder business; horizontal fit with small distressed alloy or solder makers.",
+     "barW": 49
+    }
+   ]
+  },
+  {
+   "company": "SSAGRI GROUP PRIVATE LIMITED",
+   "isLiq": false,
+   "stageLabel": "Corporate Insolvency Resolution Process",
+   "stageClass": "cirp",
+   "admit": "17-05-2026",
+   "claimsBy": "29-05-2026",
+   "claimsDays": -10,
+   "formgBy": "31 Jul 2026",
+   "applicant": "Union Bank of India",
+   "rp": "P V B Sudhakararao",
+   "matches": [
+    {
+     "client": "Excel Genetics Limited",
+     "score": 27,
+     "matched": [
+      "agri",
+      "agro",
+      "crop",
+      "seed"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify",
+     "conf": "MEDIUM",
+     "confClass": "g-warn",
+     "naClass": "g-warn",
+     "syn": "Horizontal: distressed hybrid-seed companies (germplasm, distribution). Adjacency: agro-chemical or biotech firms (cross-sell to farmers). Backward: seed-processing/conditioning plants.",
+     "barW": 69
+    },
+    {
+     "client": "UPL Limited",
+     "score": 21,
+     "matched": [
+      "agri",
+      "agro",
+      "agrochemical",
+      "crop",
+      "seed"
+     ],
+     "reach": "Indian promoter, reachable (Shroff family controls strategy).",
+     "na": "Verify. No CIRP basis; UPL carries high debt and has been un",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: agro-intermediate/technical-grade chemical makers (input cost and supply). Horizontal: regional crop-protection formulators or registrations portfolios (market access). Adjacency: seeds, biologicals and post-harvest assets (portfo",
+     "barW": 54
+    },
+    {
+     "client": "Meghmani Industries Limited",
+     "score": 20,
+     "matched": [
+      "agri",
+      "agro",
+      "agrochemical",
+      "crop"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify. Part of established Meghmani group; no public distre",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: basic-chemical/intermediate makers (Meghmani group already backward-integrated). Forward: branded agri-input distribution; textile dye houses. Horizontal: other agrochemical and dyestuff manufacturers consolidating capacity in Guj",
+     "barW": 51
+    }
+   ]
+  },
+  {
+   "company": "ASWINIKRISHNAA TEXTILE PRIVATE LIMITED",
+   "isLiq": false,
+   "stageLabel": "Corporate Insolvency Resolution Process",
+   "stageClass": "cirp",
+   "admit": "16-05-2026",
+   "claimsBy": "04-06-2026",
+   "claimsDays": -4,
+   "formgBy": "30 Jul 2026",
+   "applicant": "Central Bank Of India Limited",
+   "rp": "Dipti Narayan Mundra",
+   "matches": [
+    {
+     "client": "Nandan Denim Limited",
+     "score": 39,
+     "matched": [
+      "cotton",
+      "denim",
+      "fabric",
+      "garment",
+      "spinning",
+      "textile",
+      "yarn"
+     ],
+     "reach": "Indian promoter, reachable (Chiripal / Patel family)",
+     "na": "29A caution. Faced a Section 9 IBC petition by Louis Dreyfus",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward: distressed cotton spinning / yarn units (input integration). Horizontal: distressed denim or processing-house capacity. Forward: distressed garmenting units to move up the chain. As a target: denim consolidators may eye its integr",
+     "barW": 100
+    },
+    {
+     "client": "Shankar Kapda Niryat P Limited",
+     "score": 34,
+     "matched": [
+      "cotton",
+      "fabric",
+      "garment",
+      "spinning",
+      "textile",
+      "yarn"
+     ],
+     "reach": "Indian promoter, reachable",
+     "na": "Verify",
+     "conf": "MEDIUM",
+     "confClass": "g-warn",
+     "naClass": "g-warn",
+     "syn": "Backward: distressed spinning or weaving mill (yarn/fabric supply). Horizontal: distressed textile/garment exporter (capacity and order-book consolidation).",
+     "barW": 87
+    },
+    {
+     "client": "Arvind Limited",
+     "score": 27,
+     "matched": [
+      "denim",
+      "fabric",
+      "garment",
+      "spinning",
+      "textile"
+     ],
+     "reach": "Indian promoter (Lalbhai family), reachable.",
+     "na": "Verify.",
+     "conf": "HIGH",
+     "confClass": "g-ok",
+     "naClass": "g-warn",
+     "syn": "Backward (spinning), horizontal (textile capacity), forward (garments/brands/retail), adjacency (technical textiles).",
+     "barW": 69
+    }
+   ]
+  }
+ ]
+}
